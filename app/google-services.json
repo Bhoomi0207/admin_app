@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "127887631856",
+    "project_id": "ecommerce-8f754",
+    "storage_bucket": "ecommerce-8f754.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127887631856:android:3d20ab354f598cc4b3a935",
+        "android_client_info": {
+          "package_name": "com.example.adminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127887631856-3hmrtbfamgqob0lcefugdimc1pn6t3n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxGjS1gSAfZd71YJFQefSVUWXksZfeKPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127887631856-3hmrtbfamgqob0lcefugdimc1pn6t3n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127887631856:android:e923794e50609094b3a935",
+        "android_client_info": {
+          "package_name": "com.example.innogeek_tak_gogreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127887631856-3hmrtbfamgqob0lcefugdimc1pn6t3n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxGjS1gSAfZd71YJFQefSVUWXksZfeKPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127887631856-3hmrtbfamgqob0lcefugdimc1pn6t3n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
