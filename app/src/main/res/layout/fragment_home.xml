@@ -4,33 +4,68 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="24dp"
-    tools:context=".fragment.homeFragment">
+    android:gravity="center"
+    tools:context=".fragment.homeFragment"
+    android:background="@color/colorSecondary"
+    tools:ignore="HardcodedText"
+    >
 
     <!-- TODO: Update blank fragment layout -->
 
 
-    <Button
-        android:id="@+id/button"
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/addcatButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Add category" />
+        android:layout_margin="20sp"
+        android:background="@drawable/gradient_button"
+        android:fontFamily="@font/montserrat_semibold"
+        android:gravity="center"
+        android:padding="10sp"
+        android:text="Add category"
+        android:textColor="@color/colorSecondary"
+        android:textSize="20sp"
+        tools:ignore="VisualLintButtonSize,TextContrastCheck" />
 
-    <Button
-        android:id="@+id/button2"
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/addprodButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Add product" />
+        android:layout_margin="20sp"
+        android:background="@drawable/gradient_button"
+        android:fontFamily="@font/montserrat_semibold"
+        android:gravity="center"
+        android:padding="10sp"
+        android:text="Add product"
+        android:textColor="@color/colorSecondary"
+        android:textSize="20sp"
+        tools:ignore="TextContrastCheck,VisualLintButtonSize" />
 
-    <Button
-        android:id="@+id/button3"
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/addslidButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="add slider" />
+        android:layout_margin="20sp"
+        android:background="@drawable/gradient_button"
+        android:fontFamily="@font/montserrat_semibold"
+        android:gravity="center"
+        android:padding="10sp"
+        android:text="Add slider"
+        android:textColor="@color/colorSecondary"
+        android:textSize="20sp"
+        tools:ignore="TextContrastCheck,VisualLintButtonSize" />
 
-    <Button
-        android:id="@+id/button4"
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/allOrdeBrutton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="all orders details" />
+        android:layout_margin="20sp"
+        android:background="@drawable/gradient_button"
+        android:fontFamily="@font/montserrat_semibold"
+        android:gravity="center"
+        android:padding="10sp"
+        android:text="All orders details"
+        android:textColor="@color/colorSecondary"
+        android:textSize="20sp"
+        tools:ignore="TextContrastCheck,VisualLintButtonSize" />
 </LinearLayout>

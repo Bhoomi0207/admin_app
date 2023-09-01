@@ -7,4 +7,25 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+<<<<<<< HEAD
+=======
+    <color name="gradientStartColor">#F36E8E</color>
+    <color name="gradientEndColor">#167B94</color>
+    <color name="textcolour1">#A8DBEA</color>
+    <color name="username">#606263</color>
+    <color name="hintColor">#AAAAAA</color>
+    <color name="inputbox">#E2F0F4</color>
+    <color name="outlinecolr">#145768</color>
+    <color name="customButtonColor">#24CAF3</color>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorSecondary">#ebdcca</color>
+    <color name="my_spinner_text_color">#72000000</color>
+    <color name="colorSecondaryDark">#66DFA661</color>
+
+
+
+
+
+
+>>>>>>> githu_b/master
 </resources>

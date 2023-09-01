@@ -1,5 +1,18 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">adminapp</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+=======
+    <string name="app_name">GoGreen</string>
+    <string name="gogreen">GoGreen!</string>
+    <string name="do_not_have_an_account_create_one">Do not have an account? Create one!</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="welcome_user">Welcome, User!</string>
+    <string name="hello_blank_fragment">hello\n</string>
+>>>>>>> githu_b/master
 </resources>
